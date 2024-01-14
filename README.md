@@ -4,7 +4,7 @@
 
 This full-stack project was designed to help UBC students with their course planning. With a robust query engine that parses historical UBC course data, users can determine which courses have course averages above their input threshold. Further, for any particular course, users can get details on averages spliced by professor, ranked in descending order. 
 
-Built using TypeScript and React (Tailwind/daisyUI).
+Built using TypeScript and Tailwind/daisyUI.
 
 While this public repository holds only the front-end UI, I would be pleased to provide a full project walkthrough upon request. 
 Alternatively, you may watch the [project demo here.](https://youtu.be/p1tWGnVd-nw)
