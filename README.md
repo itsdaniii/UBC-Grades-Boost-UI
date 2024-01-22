@@ -8,3 +8,7 @@ Built using TypeScript and Tailwind/daisyUI.
 
 While this public repository holds only the front-end UI, I would be pleased to provide a full project walkthrough upon request. 
 Alternatively, you may watch the [project demo here.](https://youtu.be/p1tWGnVd-nw)
+
+**User Stories:**
+1. As a UBC student, I want to determine which courses have historical averages above a given threshold, so that I can make informed course planning decisions and maximize my GPA for the upcoming term.
+2. As a UBC student, I want to view instructors' historical averages for a given course, so that I can make informed course planning decisions and maximize my GPA for the upcoming term.
